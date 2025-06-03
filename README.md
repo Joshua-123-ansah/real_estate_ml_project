@@ -110,7 +110,7 @@ The API will be available at: `http://127.0.0.1:5000/`
 
 I am a highly motivated reseacher, data scientist and software engineer with a passion for solving real-world problems through data-driven solutions. My projects combine deep data understanding with clean software engineering and deployment skills.
 
-I am actively looking for opportunities in Research, Data Science, ML Engineering, and Full-Stack roles.
+My area of interest is Research, Data Science, ML Engineering, and Full-Stack roles.
 
 Let's connect!
 
