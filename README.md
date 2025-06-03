@@ -73,13 +73,13 @@ The dataset consists of real-world Bangalore housing price data which was gotten
 
 ```bash
 git clone <repo_url>
-cd bangalore_home_price_prediction
+cd server
 ```
 
-### 2. Install dependencies
+### 2. Install dependency
 
 ```bash
-pip install -r requirements.txt
+pip install Flask
 ```
 
 ### 3. Run Jupyter Notebook (optional)
